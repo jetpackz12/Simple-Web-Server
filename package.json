@@ -1,0 +1,23 @@
+{
+  "name": "simplewebserver",
+  "version": "1.0.0",
+  "description": "simple\u001b[D\u001b[D\u001b[D\u001b[D\u001b[S\u001b[C\u001b[C\u001b[C\u001b[C\u001b[CWebServerInNodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jetpackz12/Simple-Web-Server.git"
+  },
+  "author": "Joseph Jett Abela\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jetpackz12/Simple-Web-Server/issues"
+  },
+  "homepage": "https://github.com/jetpackz12/Simple-Web-Server#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
