@@ -19,5 +19,8 @@
   "homepage": "https://github.com/jetpackz12/Simple-Web-Server#readme",
   "devDependencies": {
     "nodemon": "^3.0.3"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
   }
 }
